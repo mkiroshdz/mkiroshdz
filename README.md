@@ -1,16 +1,24 @@
-### Hi there 👋
+## About me
 
-<!--
-**mkiroshdz/mkiroshdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 My name is Monica and my pronouns are She/Her.
+- 🔭 I'm a ruby backend developer currently working for Gorilla Logic.
+- 🌱 I’m currently learning Hanami & C
+- ⚡ Fun fact: I Like reinventing the wheel by rebuilding things that are already implemented by a libraries.
+- 📫 You can reach me by email: mkiroshdz@gmail.com
 
-Here are some ideas to get you started:
+## Languages & Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧙‍♀️ Ruby
+- 🤹🏽 Javascript
+- 🤹🏽 Markup & CSS
+- 🤹🏽 Rails
+- 🪨 Grape
+- 🌱 Hanami
+- 🪨 React
+
+## Tools
+
+- 🪨 Postgres
+- 🪨 MySQL
+- 🌱 Docker & Kubernetes
+- 🪨 Heroku
