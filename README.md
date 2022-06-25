@@ -7,10 +7,8 @@
 
 ## Languages & Frameworks
 
-- 🧙‍♀️ Ruby
+- 🧙‍♀️ Ruby/Rails
 - 🤹🏽 Javascript
-- 🤹🏽 Markup & CSS
-- 🤹🏽 Rails
 - 🪨 Grape
-- 🌱 Hanami
 - 🪨 React
+- 🌱 Hanami
