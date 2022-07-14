@@ -12,4 +12,4 @@
 - 🪨 Grape
 - 🪨 React
 - 🌱 Hanami
-- 🌱 K8
+- 🌱 K8s
