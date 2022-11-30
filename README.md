@@ -14,7 +14,7 @@
 
 ## Skills
 
-- 🧙‍♀️ Ruby/Rails/Grape
+- 🧙‍♀️ Ruby/Rails/Grape/Hanami
 - 🪨 Relational Databases
 - 🤹🏽 Javascript/React
 - 🌱 Hanami/k8s/C (In progress)
