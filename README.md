@@ -1,8 +1,7 @@
 ## About me
 
 - 👋 My name is Monica and my pronouns are She/Her.
-- 🔭 I'm a ruby backend developer
-- 🎮 I love videogames
+- 🔭 I'm a ruby backend developer, videogames lover and cat mom.
 - 📫 You can reach me by email: mkiroshdz@gmail.com
 
 ## 🔭 Interested on learning about
