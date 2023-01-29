@@ -13,7 +13,19 @@
 
 ## Skills
 
-- 🧙‍♀️ Ruby/Rails/Grape/Hanami
-- 🪨 Relational Databases
-- 🤹🏽 Javascript/React
-- 🌱 Hanami/k8s/C (In progress)
+### Ruby Frameworks
+
+- 🧙‍♀️ Rails
+- 🧙‍♀️ Grape
+- 🌱 Hanami
+
+### JS Framerworks & Libraries
+
+- 🌱 Express
+- 🌱 AngularJS (1.x)
+- 🌱 React
+
+### Quering Languages
+
+- 🪨 SQL
+- 🌱 GraphQL
