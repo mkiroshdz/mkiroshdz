@@ -24,6 +24,7 @@
 - 🌱 Express
 - 🌱 AngularJS (1.x)
 - 🌱 React
+- 🌱 Redux
 
 ### Quering Languages
 
