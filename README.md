@@ -1,6 +1,6 @@
 ## About me
 
-- 👋 My name is Monica and my pronouns are She/Her.
+- 👋 My name is Monica
 - 🔭 I'm a ruby backend developer, videogames lover and cat mom.
 - 📫 You can reach me by email: mkiroshdz@gmail.com
 
