@@ -1,32 +1,12 @@
 ## About me
 
 - 👋 My name is Monica
-- 🔭 I'm a ruby backend developer, videogames lover and cat mom.
-- 📫 You can reach me by email: mkiroshdz@gmail.com
+- 🔭 I'm a fullstack web developer, videogames lover and cat mom.
 
-## 🔭 Interested on learning about
 
-- Backend Development
-- Learning how things work in general
-- Web Architecture
-- Databases Internals
+### Experimenting with
 
-## Skills
-
-### Ruby Frameworks
-
-- 🧙‍♀️ Rails
-- 🧙‍♀️ Grape
-- 🌱 Hanami
-
-### JS Framerworks & Libraries
-
-- 🌱 Express
-- 🌱 AngularJS (1.x)
-- 🌱 React
-- 🌱 Redux
-
-### Quering Languages
-
-- 🪨 SQL
-- 🌱 GraphQL
+- Hanami
+- Bulma
+- Node/Express
+- Java
