@@ -6,7 +6,5 @@
 
 ### Experimenting with
 
-- Hanami
-- Bulma
 - Node/Express
 - Java
